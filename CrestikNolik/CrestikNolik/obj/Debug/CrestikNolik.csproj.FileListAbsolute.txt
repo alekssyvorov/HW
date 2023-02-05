@@ -1,0 +1,15 @@
+C:\Users\Pron_hb17\source\repos\CrestikNolik\CrestikNolik\bin\Debug\CrestikNolik.exe.config
+C:\Users\Pron_hb17\source\repos\CrestikNolik\CrestikNolik\bin\Debug\CrestikNolik.exe
+C:\Users\Pron_hb17\source\repos\CrestikNolik\CrestikNolik\bin\Debug\CrestikNolik.pdb
+C:\Users\Pron_hb17\source\repos\CrestikNolik\CrestikNolik\obj\Debug\CrestikNolik.csprojAssemblyReference.cache
+C:\Users\Pron_hb17\source\repos\CrestikNolik\CrestikNolik\obj\Debug\CrestikNolik.csproj.CoreCompileInputs.cache
+C:\Users\Pron_hb17\source\repos\CrestikNolik\CrestikNolik\obj\Debug\CrestikNolik.exe
+C:\Users\Pron_hb17\source\repos\CrestikNolik\CrestikNolik\obj\Debug\CrestikNolik.pdb
+C:\Users\Evgeniy\Desktop\CrestikNolik\CrestikNolik\bin\Debug\CrestikNolik.exe.config
+C:\Users\Evgeniy\Desktop\CrestikNolik\CrestikNolik\bin\Debug\CrestikNolik.exe
+C:\Users\Evgeniy\Desktop\CrestikNolik\CrestikNolik\bin\Debug\CrestikNolik.pdb
+C:\Users\Evgeniy\Desktop\CrestikNolik\CrestikNolik\obj\Debug\CrestikNolik.csproj.AssemblyReference.cache
+C:\Users\Evgeniy\Desktop\CrestikNolik\CrestikNolik\obj\Debug\CrestikNolik.csproj.SuggestedBindingRedirects.cache
+C:\Users\Evgeniy\Desktop\CrestikNolik\CrestikNolik\obj\Debug\CrestikNolik.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniy\Desktop\CrestikNolik\CrestikNolik\obj\Debug\CrestikNolik.exe
+C:\Users\Evgeniy\Desktop\CrestikNolik\CrestikNolik\obj\Debug\CrestikNolik.pdb
